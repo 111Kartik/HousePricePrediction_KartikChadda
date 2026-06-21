@@ -1,0 +1,14 @@
+feature,importance
+num__area,0.730243110282674
+cat__airconditioning_yes,0.0632009094094618
+num__bathrooms,0.06161968247390196
+num__stories,0.030814359734996383
+num__bedrooms,0.030349970805470628
+num__parking,0.01774655080013193
+cat__prefarea_yes,0.016872038264902325
+cat__furnishingstatus_unfurnished,0.010723978078745831
+cat__guestroom_yes,0.01029617336697383
+cat__basement_yes,0.009621851798349257
+cat__mainroad_yes,0.009312894269613034
+cat__furnishingstatus_semi-furnished,0.0054583894256049394
+cat__hotwaterheating_yes,0.0037400912891742237
